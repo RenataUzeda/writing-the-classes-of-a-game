@@ -1,6 +1,6 @@
 # Hero Class
 
-This JavaScript class represents a generic hero for an adventure game. The hero has properties like `name`, `age`, and `type`, and a method called `attack` that displays an attack message based on the hero's type. And was developed to meet the project challenge of the Bootcamp "Programando do Zero" taught by DIO in partnership with Potência Tech By iFood.
+This JavaScript class represents a generic hero for an adventure game. The hero has properties like `name`, `age`, and `type`, and a method called `attack` that displays an attack message based on the hero's type. It was developed to meet the project challenge of the Bootcamp 'Programando do Zero' taught by DIO in partnership with Potência Tech By iFood.
 
 ## Usage
 
